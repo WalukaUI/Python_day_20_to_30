@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="641df286-9e81-4203-94aa-eaaa7cfb2231" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong_game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/.idea/TrueOrFalse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrueOrFalse/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/.idea/coffie_machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/.idea/coffie_machine_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/coffie_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffie_machine_oop/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffiemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/.idea/day-18-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-project/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/day_17_start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessthe_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_race/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtlr_crossing_road/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtlr_crossing_road/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtlr_crossing_road/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtlr_crossing_road/scoreboard.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fpbRDDnFPconUxxZODLgvKXfVE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/walukg/Desktop/codes/Python/Assignments/Day 10 to 20/Mail Merge Project Start"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641df286-9e81-4203-94aa-eaaa7cfb2231" name="Changes" comment="" />
+      <created>1714500955578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714500955578</updated>
+    </task>
+    <servers />
+  </component>
+</project>
