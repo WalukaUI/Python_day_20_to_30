@@ -62,15 +62,21 @@ def add_details():
 
 def search_key():
     key_name = name_entry.get()
-    with open("detailsfile.json", "r") as file:
-        # reading old data
-        data = json.load(file)
+    try:
+        with open("detailsfile.json", "r") as file:
+            # reading old data
+            data = json.load(file)
+    except FileNotFoundError:
+        messagebox.showinfo(title=key_name, message=" No data found, please add data")
+    else:
         if key_name in data:
             emailadd = data[key_name]["email"]
-            passwords=data[key_name]["password"]
-            print(emailadd, passwords)
+            passwords = data[key_name]["password"]
+            messagebox.showinfo(title=key_name, message=f"email : {emailadd} \npassword : {passwords}")
         else:
-            print("no")
+            messagebox.showinfo(title=key_name, message=f"{key_name} Does not exists")
+
+
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title("Password Manager")
